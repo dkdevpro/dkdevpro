@@ -13,8 +13,11 @@
 
 ![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=android)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)
-![Ktor-server](https://img.shields.io/badge/-Ktor-black?style=flat-square&logo=kotlin)
+![Backend](https://img.shields.io/badge/-Backend-black?style=flat-square&logo=kotlin)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-black?style=flat-square&logo=jetpack-compose)
 ![Kotlin-JS](https://img.shields.io/badge/-KotlinJs-black?style=flat-square&logo=kotlin)
+![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAAAXVBMVEVHcEz1oUX1oUX1oUX1oUX1oUX1oUX1oUX1oUX1oUX1oUX1oUX1oUX1oUX1oUX1oUX1oUX1oUX1oUX1oUX1oUX1oUX1oUX1oUX1oUX1oUX1oUX1oUX1oUX1oUX1oUUVNhCzAAAAHnRSTlMAL7a+VwcXfz9PH283dyfuhqaOD+aWrp7WZ/Zf3kf+bOOkAAAAr0lEQVR42m3QRQIDIQxA0Y+GjDFab+9/zLrzdkiUb4YythNlQ6BIVxSZQ0WJn49UPvwXziaOnj/7y/3G8O9QM6wpmBPOUlC3yEkpGGKYiyHB0478iL6KBPYTkJaGp3an6eKY6jZBs+GlUbnQ1HGhn5Xq2xVNBcZWvKnLp9POLTXdz7YmymJeRGRt9bdZunblVqIBCK/CueEt6iuqE7GXNO5CRtHoPS8h3Yj0tu8NF2eEegcIhbhJegAAAABJRU5ErkJggg==)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
 ![Karate-DSL](https://img.shields.io/badge/-Karate-black?style=flat-square&logo=karate)
