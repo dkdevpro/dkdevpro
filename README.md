@@ -23,3 +23,5 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=dinokodes&count_private=true&show_icons=true&include_all_commits=true&theme=gotham&layout=compact)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinokodes"/>
