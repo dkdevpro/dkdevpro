@@ -11,7 +11,13 @@
 
 ## Technologies
 
+![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=android)
+![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)
+![Ktor-server](https://img.shields.io/badge/-Ktor-black?style=flat-square&logo=kotlin)
+![Kotlin-JS](https://img.shields.io/badge/-KotlinJs-black?style=flat-square&logo=kotlin)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
+![Karate-DSL](https://img.shields.io/badge/-Karate-black?style=flat-square&logo=karate)
 ![Firebase](https://img.shields.io/badge/-firebase-blue?style=flat-square&logo=firebase)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
