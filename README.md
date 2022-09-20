@@ -8,3 +8,12 @@
 - 💬 Ask me about **Android, Kotlin, Ktor backend APIs, Karate DSL automation testing, Docker, Kubernetes and CI CD.**
 
 - 📫 Reach me at **manidinesh89@gmail.com**
+
+## Technologies
+
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Firebase](https://img.shields.io/badge/-firebase-blue?style=flat-square&logo=firebase)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=dinokodes&count_private=true&show_icons=true&include_all_commits=true&theme=gotham&layout=compact)
