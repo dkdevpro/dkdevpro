@@ -3,7 +3,7 @@
 
 - 👯 I’m looking to collaborate on **anything cool and minimal.**
 
-- 👨‍💻 All of my projects are available at [codewithdk](/codewithdk.com/edit/main/README.md)
+- 👨‍💻 All of my projects are available at [codewithdk](/dinokodes/edit/main/README.md)
 
 - 💬 Ask me about **Android, Kotlin, Ktor backend APIs, Karate DSL automation testing, Docker, Kubernetes and CI CD.**
 
