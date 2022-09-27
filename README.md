@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Dinesh Kumar Manimozhian</h1>
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dinokodes&title=Visitors)
-![Followers Badge](https://img.shields.io/github/followers/dinokodes?label=Followers)
 <p align="left">I'm passionate about building products and trying out new things. I have around 11+ years of experience in IT consulting and product development, working across domains such as transporation, Ecommerce, Communication. I have experience in building, architecting, designing, and implementing android apps and multiplatform SDK's. Exploring backend API development and API automation testing as well.</p>
 
 - 👯 I’m looking to collaborate on **anything cool and minimal.**
@@ -11,6 +8,13 @@
 - 💬 Ask me about **Android, Kotlin, Ktor backend APIs, Karate DSL automation testing, Docker, Kubernetes and CI CD.**
 
 - 📫 Reach me at **manidinesh89@gmail.com**
+
+### Statistics on me
+
+[![DKs profile at Stack Overflow](https://stackoverflow.com/users/flair/1805944.png "DKs profile at Stack Overflow")](https://stackoverflow.com/users/1805944/codewithdk)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dinokodes&title=Visitors)
+![Followers Badge](https://img.shields.io/github/followers/dinokodes?label=Followers)
 
 ## Technologies
 
