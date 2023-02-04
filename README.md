@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dinesh Manimozhian</h1>
-<p align="left">I'm passionate about building products and trying out new things. I have around 11+ years of experience in IT consulting and product development, working across domains such as transporation, Ecommerce, Communication. I have experience in building, architecting, designing, and implementing android apps and multiplatform SDK's. Exploring backend API development and API automation testing as well.</p>
+<p align="left">I'm passionate about building products and trying out new things. I have around 11+ years of experience in IT consulting and product development, working across domains such as Transporation, Ecommerce, Communication. I have experience in building, architecting, designing, and implementing android apps and multiplatform SDK's. I do write backend APIs as well as API automation testing.</p>
 
 - 👯 I’m looking to collaborate on **Kotlin Mulitplatform SDK/APP(Android, iOS, Desktop and Javascript) and Backend API development(ktor & spring boot).**
 
-- 👨‍💻 All of my projects are available at [@CodeWithDino](https://github.com/CodeWithDino)
+- 👨‍💻 I develop mobile, web apps and also write backend server APIs for apps.
 
-- 💬 Ask me about **Android, Kotlin, Ktor backend APIs, Karate DSL automation testing, Docker, Kubernetes and CI CD.**
+- 👨‍💻 #SelfTaughtDeveloper
+
+- 💬 Ask me about **Android, Kotlin, Ktor/Spring-boot backend APIs, Karate DSL automation testing, Docker, Kubernetes and CI CD.**
 
 - 📫 Reach me at **manidinesh89@gmail.com**
 
