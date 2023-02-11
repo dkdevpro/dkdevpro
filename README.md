@@ -15,8 +15,8 @@
 
 [![DKs profile at Stack Overflow](https://stackoverflow.com/users/flair/1805944.png "DKs profile at Stack Overflow")](https://stackoverflow.com/users/1805944/codewithdk)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=CodeWithDino&title=Visitors)
-![Followers Badge](https://img.shields.io/github/followers/CodeWithDino?label=Followers)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dineshktech&title=Visitors)
+![Followers Badge](https://img.shields.io/github/followers/dineshktech?label=Followers)
 
 ## Technologies
 
@@ -34,7 +34,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=CodeWithDino&count_private=true&show_icons=true&include_all_commits=true&theme=gotham&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=dineshktech&count_private=true&show_icons=true&include_all_commits=true&theme=gotham&layout=compact)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithDino"/>
 
