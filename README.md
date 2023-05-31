@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dinesh Manimozhian</h1>
-<p align="left">I'm passionate about building products and trying out new things. I have around 11+ years of experience in IT consulting and product development, working across domains such as Transporation, Ecommerce, Communication. I have experience in building, architecting, designing, and implementing android apps and multiplatform SDK's. I do write backend APIs as well as API automation testing.</p>
+<p align="left">I'm passionate about building products and trying out new things. I have around 11+ years of experience in IT consulting and product development, working across domains such as Transporation, Ecommerce, Communication. I have experience in architecting and designing Android, KMM/KMP and ReactJS Apps/SDKs. I do write backend APIs as well as API automation testing.</p>
 
 - 👯 I’m looking to collaborate on **Kotlin Mulitplatform SDK/APP(Android, iOS, Desktop and Javascript) and Backend API development(ktor & spring boot).**
 
