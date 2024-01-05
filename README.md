@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Android, Kotlin, Ktor/Spring-boot backend APIs, Karate DSL automation testing, Docker, Kubernetes and CI CD.**
 
-- 📫 Reach me at **manidinesh89@gmail.com**
+- 📫 Reach me at **dineshktech.official@gmail.com**
 
 ### Statistics on me
 
