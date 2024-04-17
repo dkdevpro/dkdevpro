@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dinesh Manimozhian</h1>
 <p align="left">I'm passionate about building products and trying out new things. I have around 11+ years of experience in IT consulting and product development, working across domains such as Transporation, Ecommerce, Communication. I have experience in architecting and designing Android, KMM/KMP and ReactJS Apps/SDKs. I do write backend APIs as well as API automation testing.</p>
 
-- 👯 I’m looking to collaborate on **Kotlin Mulitplatform SDK/APP(Android, iOS, Desktop and Javascript) and Backend API development(ktor & spring boot).**
+- 👯 I’m looking to collaborate on **Android(Native) and Full stack development(React & Nodejs).**
 
 - 👨‍💻 I develop mobile, web apps and also write backend server APIs for apps.
 
 - 👨‍💻 #SelfTaughtDeveloper
 
-- 💬 Ask me about **Android, Kotlin, Ktor/Spring-boot backend APIs, Karate DSL automation testing, Docker, Kubernetes and CI CD.**
+- 💬 Ask me about **Android, Kotlin, Nodejs, React, Karate DSL automation testing, Docker, Kubernetes and CI/CD.**
 
 - 📫 Reach me at **dineshktech.official@gmail.com**
 
