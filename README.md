@@ -15,7 +15,7 @@
 
 [![DKs profile at Stack Overflow](https://stackoverflow.com/users/flair/1805944.png "DKs profile at Stack Overflow")](https://stackoverflow.com/users/1805944/codewithdk)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dkdevpro&title=Visitors)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dkdevpro)
 ![Followers Badge](https://img.shields.io/github/followers/dkdevpro?label=Followers)
 
 ## Technologies
