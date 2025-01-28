@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dinesh Manimozhian</h1>
-<p align="left">I'm passionate about building products and trying out new things. I have around 11+ years of experience in IT consulting and product development, working across domains such as Transporation, Ecommerce, Communication. I have experience in architecting and designing Android, KMM/KMP and ReactJS Apps/SDKs. I do write backend APIs as well as API automation testing.</p>
+<p align="left">I’m passionate about building innovative products and exploring new technologies. With over 11 years of experience in IT consulting and product development, I have worked across diverse domains, including Transportation, E-commerce, and Communication. My expertise lies in architecting and designing cutting-edge Android apps, KMM/KMP frameworks, and ReactJS applications/SDKs. Beyond frontend development, I have hands-on experience in building backend APIs and implementing robust API automation testing. I thrive on solving complex problems and turning ideas into impactful solutions.</p>
 
 - 👯 I’m looking to collaborate on **Android(Native) and Full stack development(React & Nodejs).**
 
